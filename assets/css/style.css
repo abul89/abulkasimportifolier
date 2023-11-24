@@ -761,7 +761,7 @@ a:hover {
   font-size: 3rem;
 }
 .slider-bg{
-  background-image: url(/assets/img/bg/bg-slider.jpg);
+  background-image: url(/abul/assets/img/bg/bg-slider.jpg) !important;
 }
 
 @media (min-width: 768px) {
